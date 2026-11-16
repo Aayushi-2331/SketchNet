@@ -14,7 +14,7 @@ The project focuses on image preprocessing, CNN training, hyperparameter optimiz
 ### Key Features
 
 - Custom CNN for hand-drawn image classification
-- Recognition of 10 different object categories
+- Recognition of 8 different object categories
 - Image preprocessing using Python and NumPy
 - Automated conversion of `.npy` files into PNG images
 - Hyperparameter tuning across 15 configurations
